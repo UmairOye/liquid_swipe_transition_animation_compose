@@ -1,4 +1,4 @@
-# Morph Animation
+# Liquid Swipe Transition Animation
 
 A minimal Android demo app that showcases a **liquid swipe transition** between screens—inspired by fluid, blob-style edges—built entirely with **Jetpack Compose**.
 
