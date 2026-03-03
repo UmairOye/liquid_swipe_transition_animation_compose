@@ -6,6 +6,12 @@ Swipe left or right to move between four onboarding screens. The transition uses
 
 ---
 
+## View
+
+![Animation demo](app/anim.gif)
+
+---
+
 ## Features
 
 - **Liquid swipe transition** – Custom Bézier-based wave/blob edge that morphs as you drag, instead of a simple slide.
